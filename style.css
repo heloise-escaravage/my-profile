@@ -18,11 +18,12 @@
     /* padding-left: inherit; */
     font-family: robotto;
 ">👋Hello, I'm Heloise ! </h1>
-      <img src="profile.jpeg" 
+     <img src="profile.jpeg"s="img-circle" width="150px" style="
     border-radius: 50%;
     padding: 30px;
     margin-left: 570px;
-    margin-right: 200px;
+    margin-right: 200px 
+   
 "> 
 
       <p style="
